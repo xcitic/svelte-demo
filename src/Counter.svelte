@@ -9,6 +9,8 @@
       return count -= 1;
     }
 
+    $: console.log(count);
+
 </script>
 <main>
     <h1> Count: {count} </h1>
