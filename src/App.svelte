@@ -1,13 +1,11 @@
 <script>
-	export let name;
+	export let time;
 	import Counter from './Counter.svelte';
 </script>
 
 <main>
-	<h1> Hello{name}!</h1>
-    <p>{name}</p>
-    <Counter />
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+    <p>The current date is {time}</p>
+    <Counter name="{'Sami'}"/>
 </main>
 
 <style>

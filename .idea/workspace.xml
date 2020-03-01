@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1bcd827d-930a-484d-9e25-225b82f0a4b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Counter.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/Counter.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583022342348</updated>
       <workItem from="1583022344951" duration="37000" />
-      <workItem from="1583022391428" duration="1260000" />
+      <workItem from="1583022391428" duration="2355000" />
     </task>
     <servers />
   </component>
