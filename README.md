@@ -1,4 +1,7 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+# This is just a demo repo 
+
+I will use it for initial testing of Svelte and experimenting with how the framework enables data bindings, event handling, mapping data to elements and fetching data from APIs and populating the DOM.
+
 
 ---
 
@@ -12,6 +15,10 @@ To create a new project based on this template using [degit](https://github.com/
 npx degit sveltejs/template svelte-app
 cd svelte-app
 ```
+
+
+*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
